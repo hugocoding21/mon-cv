@@ -1,0 +1,14 @@
+header {
+  background-color: rgb(150, 198, 169);
+  width: auto;
+  height: 200px;
+}
+#img {
+  position: fixed;
+  top: 25px;
+  right: 20px;
+  width: auto;
+  height: 140px;
+  border: 3px solid #73ad21;
+  border-radius: 90;
+}
